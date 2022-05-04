@@ -1,0 +1,19 @@
+/* * {
+    border: 0;
+    margin: 0;
+} */
+
+input, #result {
+    margin: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+}
+
+input {
+    background-color: beige;
+}
+
+button {
+    font-size: 2rem;
+    margin: 3px;
+}
